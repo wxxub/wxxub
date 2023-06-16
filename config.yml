@@ -8,7 +8,7 @@ description: wxxub's navigation site
 favicon: "https://github.com/wxxub.png?size=40"
 
 # your website url
-url: https://wxxub.github.io/wxxub/
+url: https://wxxub.github.io
 
 # github profile url
 github: "https://github.com/wxxub"
@@ -29,10 +29,9 @@ webstack:
     default: google
     # 可选的搜索引擎
     engines:
-      - google
-      - github
-      - weibo
       - baidu
+      - weibo
+      - github
       - bilibili
       - zhihu
 
@@ -67,9 +66,7 @@ content:
         - name: Youtube
           description: 全球最大的学习分享平台
           url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
+        
         - name: Medium
           description: Read, write and share stories that matter
           url: https://medium.com/
